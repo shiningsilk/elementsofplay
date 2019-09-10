@@ -29,6 +29,13 @@ img {
   transform: translateY(-50%);
 }
 
+p {
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
 h1,
 h2,
 h3,
@@ -40,11 +47,13 @@ h6 {
 
 h1 {
   color: #fff;
+  font-size: 40px;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 
 h1 span {
+  font-size: 42px;
   font-weight: 700;
   letter-spacing: 3px;
 }
