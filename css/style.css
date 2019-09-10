@@ -35,6 +35,16 @@ img {
   text-transform: uppercase;
 }
 
+.social {
+  margin-top: 40px;
+}
+
+.social i {
+  color: #fff;
+  font-size: 28px;
+  padding: 5px;
+}
+
 p {
   color: #fff;
   font-family: 'Open Sans', sans-serif;
