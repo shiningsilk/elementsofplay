@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+}
+
+img {
+  display: inline-block;
+  height: auto;
+  width: 100%;
+}
+
+.coming-soon {
+  background-color: #fff;
+  background-image: url("../img/eop2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
