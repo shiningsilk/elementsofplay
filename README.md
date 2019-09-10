@@ -6,6 +6,6 @@
 
 ## Code Dependencies
 
-Font Awesome 5.0 (in head: https://use.fontawesome.com/releases/v5.0.13/css/all.css)
+Font Awesome 5.0 (https://fontawesome.com/)
 
 Bootstrap (https://getbootstrap.com)
