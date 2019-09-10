@@ -10,20 +10,23 @@ img {
 }
 
 .coming-soon {
-
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("../img/eop2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
-
 }
 
-
+.container-fluid {
+  position: relative;
+}
 
 .coming-soon-text {
-  position: relative;
-  z-index: 11;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 h1,
@@ -37,10 +40,11 @@ h6 {
 
 h1 {
   color: #fff;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   text-transform: uppercase;
 }
 
 h1 span {
   font-weight: 700;
+  letter-spacing: 3px;
 }
