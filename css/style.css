@@ -10,7 +10,7 @@ img {
 }
 
 .coming-soon {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/eop2.jpg");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://raw.githubusercontent.com/shiningsilk/elementsofplay/master/img/eop2.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
