@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Code Dependencies](#code Dependencies)
+* [Dependencies](#dependencies)
 
-## Code Dependencies
+## Dependencies
 
 Font Awesome 5.0 (https://fontawesome.com/)
 
