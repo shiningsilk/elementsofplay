@@ -1,6 +1,6 @@
 # Elements of Play
 
-Landing page for [Elements of Play](https://elementsofplay.me/)
+Landing page for Elements of Play.
 
 ## Table of Contents
 
