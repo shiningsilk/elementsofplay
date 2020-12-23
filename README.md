@@ -8,6 +8,6 @@ Landing page for Elements of Play.
 
 ## Dependencies
 
-[Font Awesome 5.0] (https://fontawesome.com/)
+[Font Awesome 5.0](https://fontawesome.com/)
 
-[Bootstrap] (https://getbootstrap.com)
+[Bootstrap](https://getbootstrap.com)
