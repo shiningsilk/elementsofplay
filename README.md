@@ -2,11 +2,7 @@
 
 Landing page for Elements of Play.
 
-## Table of Contents
-
-* [Dependencies](#dependencies)
-
-## Dependencies
+## Built With
 
 [Font Awesome 5.0](https://fontawesome.com/)
 
